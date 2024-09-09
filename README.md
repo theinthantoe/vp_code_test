@@ -1,6 +1,6 @@
 1.If you haven’t already cloned the repository, use the following command:
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/theinthantoe/vp_code_test
+cd project directory
 
 2.Firstly need to install use this command
  npm install
